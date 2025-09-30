@@ -15,7 +15,7 @@
 ## 🛠️ Tech Skills  
 
 ### 🚀 Programming Languages  
-- C++ | JavaScript | Python | Java  
+- C++ | JavaScript | Python 
 
 ### 🌐 Web Development  
 - Frontend: HTML, CSS, JavaScript, React.js  
@@ -44,7 +44,13 @@ A **swipe-based attendance system** where teachers can swipe student cards left/
 
 ### 🔹 [Mathematical Wave Simulator](https://github.com/12AjayPatel/Wave-Simulator)  
 An interactive **wave visualization tool** where users can add/modify waveforms and observe results.  
-- Tech: HTML, CSS, JavaScript  
+- Tech: HTML, CSS, JavaScript
+
+### 🔹 [TrackMyGrowth](https://github.com/abhishek-gupta-24/TrackMyGrowth-Backend)  
+A **personal growth tracking system** to monitor and manage daily, weekly, and monthly progress.  
+- **Tech:** Node.js, Express, MongoDB, JWT  
+- **Features:** User authentication, add/edit/delete growth records, secure REST APIs, responsive integration with frontend  
+
 
 ---
 
